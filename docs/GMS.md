@@ -2,18 +2,18 @@
  1. Log into GMS - https://gms.rfu.com/GMS/Account/Login
  2. You will see your dashboard:
 
-![](gmsImage1.jpg)
+![](images/gmsImage1.jpg)
 
  3. Click on the name of the first player you wish to buy membership for. It should then show THEIR name at the top above “Your Account”.
  4. Click “Buy Membership” in the box for Norwich RFC.
  
 This will take you to the following page:
 
-![](gmsImage2.jpg)
+![](images/gmsImage2.jpg)
 
 Scroll down for more options:
 
-![](gmsImage3.png)
+![](images/gmsImage3.png)
 
 5. Click on “add to basket” for the membership you wish to buy for that player (`Lion Cub, Mini or Youth player`).
 6. Click on the adult’s name, click on `parent/guardian` member and add to basket (at £0)

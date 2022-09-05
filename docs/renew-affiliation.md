@@ -27,7 +27,7 @@ Or you can click on your child’s profile under Family and Friends and then cli
 
 **If your child is not linked to your account – please contact one of the membership team, who will link your accounts so you can then complete this process.**
 
-![](renew-affiliation-01.png)
+![](images/renew-affiliation-01.png)
 
 This will take you through to the Player Registration Form which will be mostly pre-populated as this is a registration renewal. Simply check all the details are still correct, fill out any missing details, tick the relevant consents/waivers and click `SAVE`. You can edit or fill in any incorrect details by clicking on the pencil, or `…` icons and `+` to add.
 
