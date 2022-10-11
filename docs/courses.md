@@ -8,5 +8,5 @@ The online courses are free and each take around 30 minutes complete. As a paren
 1. After logging in, at the bottom of your dashboard page there is a green plus with the text "Find a Course", click that and it will take you to the course finder.
 1. Pull down the course selector and choose **Virtual**
 1. This will list the eLarning courses
-1. Click booke, and the buy the course and check.
+1. Click book, and the buy the course and check.
 You will then get an email from the RFU with a link to the course.
