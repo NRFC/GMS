@@ -4,20 +4,11 @@ Player registration is an RFU requirement for any player to play for a rugby clu
 
 Login to the GMS through this link https://gms.rfu.com/GMS/Account/Login
 
-If you require your username, please contact one of us:
+If you require your username, please contact Toby:
 
-## Club Membership Secretary
-
- * Vicky Regester
- * vickyregester@gmail.com
- * Mob: 07804 228005
-
-## Minis
-
- * Emma Allen
- * emma.allen@aviva.com
- * Mob: 07787 115682
-
+ * Toby Batch
+ * rugby@nfn.org.uk
+ * Mob: 07968 505 897
 
 If you do not know your password, click on Forgot password and an email will be automatically sent to you **(this may appear in your spam folder and the sender will be FirstSports)**.
 
